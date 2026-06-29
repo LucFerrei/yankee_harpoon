@@ -22,7 +22,7 @@ Quickly save, manage, and paste yanked text via a floating menu.
 
 ```lua
 {
-  "seu-usuario/yankee-harpoon",
+  "LucFerrei/yankee-harpoon",
   config = function()
     require("yankee_harpoon").setup()
   end,
