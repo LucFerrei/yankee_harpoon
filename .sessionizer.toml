@@ -1,0 +1,11 @@
+[[windows]]
+name="nvim"
+command="nvim"
+
+[[windows]]
+name="term"
+command="zsh"
+
+[[windows]]
+name="opencode"
+command="opencode"
